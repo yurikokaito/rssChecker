@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Europe]]></title>
+        <description><![CDATA[BBC News - Europe]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Europe</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 03 Jul 2019 19:15:48 GMT</lastBuildDate>
+        <copyright>
+            <![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Stromboli: One dead as volcano erupts on Italian island]]></title>
+            <description>
+                <![CDATA[The victim was reportedly killed while hiking towards the volcano's summit.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-48857422</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-48857422</guid>
+            <pubDate>Wed, 03 Jul 2019 18:49:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wolf Pack ruling: New Spain sex attack trial reignites rape law debate]]></title>
+            <description>
+                <![CDATA[Six youths are accused of sexually abusing a girl of 14 in Spain but may face the graver charge of rape.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-48858231</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-48858231</guid>
+            <pubDate>Wed, 03 Jul 2019 17:43:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MEPs choose David-Maria Sassoli as new European Parliament president]]></title>
+            <description>
+                <![CDATA[Centre-left former journalist David Sassoli is selected as the new speaker of the 28-member bloc.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-48851840</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-48851840</guid>
+            <pubDate>Wed, 03 Jul 2019 11:53:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia says details of fatal submersible fire are 'state secret']]></title>
+            <description>
+                <![CDATA[A spokesman for Vladimir Putin says details about 14 deaths aboard a navy vessel are "totally classified".]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-48852454</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-48852454</guid>
+            <pubDate>Wed, 03 Jul 2019 11:00:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amsterdam mayor seeks red light closures]]></title>
+            <description>
+                <![CDATA[The proposed changes are the biggest in the city's sex trade in two decades.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-48857420</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-48857420</guid>
+            <pubDate>Wed, 03 Jul 2019 15:18:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ASAP Rocky arrested in Sweden on suspicion of assault]]></title>
+            <description>
+                <![CDATA[The rapper has been held on suspicion of aggravated assault after a fight in Stockholm.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-48855730</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-48855730</guid>
+            <pubDate>Wed, 03 Jul 2019 13:49:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Florijana Ismaili: Tributes paid after body of missing Swiss player is found]]></title>
+            <description>
+                <![CDATA[Tributes are paid to Switzerland forward Florijana Ismaili after the missing footballer's body is found.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/48851151</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/48851151</guid>
+            <pubDate>Wed, 03 Jul 2019 10:07:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Italy migrant rescue boat: Captain Carola Rackete freed]]></title>
+            <description>
+                <![CDATA[Carola Rackete, who works for a charity, is found not guilty of endangering lives after hitting a boat.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-48838438</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-48838438</guid>
+            <pubDate>Tue, 02 Jul 2019 20:48:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[French village remembers WW2 SAS hero]]></title>
+            <description>
+                <![CDATA[French villagers remember a 24-year-old Welshman who was bludgeoned to death by the SS.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-48841869</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-48841869</guid>
+            <pubDate>Wed, 03 Jul 2019 09:47:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tesco faces Brexit deadline headache]]></title>
+            <description>
+                <![CDATA[The retail giant's boss says an October Brexit could cause problems as it's too close to Christmas.]]></description>
+            <link>https://www.bbc.co.uk/news/business-48844351</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-48844351</guid>
+            <pubDate>Tue, 02 Jul 2019 23:01:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: Heatwave made 'at least' five times more likely by warming]]></title>
+            <description>
+                <![CDATA[The record heat experienced across Europe last week was made much more likely by rising temperatures say researchers.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-48838698</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-48838698</guid>
+            <pubDate>Tue, 02 Jul 2019 12:49:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mount Elbrus: Irish climber Alan Mahon dies during descent]]></title>
+            <description>
+                <![CDATA[Alan Mahon, 40, from County Kildare, died while descending Mount Elbrus, Europe's highest peak.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-48846773</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-48846773</guid>
+            <pubDate>Tue, 02 Jul 2019 18:50:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Von der Leyen nomination: Germans criticise 'backroom deal']]></title>
+            <description>
+                <![CDATA[Political opponents are threatening to block Ursula von der Leyen's nomination as Commission president.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-48853746</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-48853746</guid>
+            <pubDate>Wed, 03 Jul 2019 13:36:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bosnian children fight back against segregation in schools]]></title>
+            <description>
+                <![CDATA[After the Bosnian wars of the 1990s, Bosnian schools widely operate a policy of two schools under one roof.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-48760442</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-48760442</guid>
+            <pubDate>Tue, 02 Jul 2019 23:13:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ursula von der Leyen: Merkel ally nominated for EU top job]]></title>
+            <description>
+                <![CDATA[The defence minister emerged from the shadows as the leaders' nominee to replace President Jean-Claude Juncker.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-48841980</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-48841980</guid>
+            <pubDate>Tue, 02 Jul 2019 17:27:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Christine Lagarde: The 'rock star' of finance]]></title>
+            <description>
+                <![CDATA[Christine Lagarde is on track to become the first woman to run the European Central Bank.]]></description>
+            <link>https://www.bbc.co.uk/news/business-48847473</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-48847473</guid>
+            <pubDate>Tue, 02 Jul 2019 21:08:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The anti-corruption case that touched a Russian nerve]]></title>
+            <description>
+                <![CDATA[Journalist Ivan Golunov was falsely accused of drug-dealing - and Russians rallied to his cause.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-48829432</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-48829432</guid>
+            <pubDate>Tue, 02 Jul 2019 00:48:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EU-Swiss share trading row: What does it mean?]]></title>
+            <description>
+                <![CDATA[The EU and Switzerland are at loggerheads over share trading, but why and what does it mean?]]></description>
+            <link>https://www.bbc.co.uk/news/business-48833680</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-48833680</guid>
+            <pubDate>Mon, 01 Jul 2019 23:07:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Greek election: Why frustrated young voters are turning conservative]]></title>
+            <description>
+                <![CDATA[As Greece goes to the polls on 7 July, many young Greeks are turning from the left-wing Syriza.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-48798764</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-48798764</guid>
+            <pubDate>Sun, 30 Jun 2019 23:55:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How rude service inspired a multi-million euro firm]]></title>
+            <description>
+                <![CDATA[A bad experience at a shop inspired one man to set up a business that measures customer satisfaction.]]></description>
+            <link>https://www.bbc.co.uk/news/business-48760522</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-48760522</guid>
+            <pubDate>Sun, 30 Jun 2019 23:07:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Berlin Brandenburg: The airport with half a million faults]]></title>
+            <description>
+                <![CDATA[Billions over budget, years late in opening, and still being rebuilt before a single plane has landed. What's gone so wrong at the new Berlin airport?]]></description>
+            <link>https://www.bbc.co.uk/news/world-48527308</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-48527308</guid>
+            <pubDate>Sat, 29 Jun 2019 00:11:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Middlesbrough: Where heroin is cheaper than cigarettes]]></title>
+            <description>
+                <![CDATA[The true scale of homelessness in the North East is largely hidden from view, according to Shelter.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-tees-48800675</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tees-48800675</guid>
+            <pubDate>Sun, 30 Jun 2019 23:47:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The pupils speaking out against segregation in schools]]></title>
+            <description>
+                <![CDATA[Several dozen schools in Bosnia are split in two, teaching youngsters according to their ethnicity.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-48840211</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-48840211</guid>
+            <pubDate>Tue, 02 Jul 2019 23:12:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Latvia PM urges good balance in EU top jobs]]></title>
+            <description>
+                <![CDATA[Nominees for the top EU jobs must be a balance of nations and gender, Latvia's PM says.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-48821024</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-48821024</guid>
+            <pubDate>Sun, 30 Jun 2019 21:04:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tusk promises 'consistent EU leadership on Brexit']]></title>
+            <description>
+                <![CDATA[European Council leader Donald Tusk says he is sure the next team of EU leaders will be as united as the existing one.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-south-yorkshire-48853740</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-south-yorkshire-48853740</guid>
+            <pubDate>Wed, 03 Jul 2019 09:25:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine's landmines endangering children]]></title>
+            <description>
+                <![CDATA[Unexploded mines and rockets are one of the legacies of Ukraine's conflict with Russia-backed separatists.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-48825011</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-48825011</guid>
+            <pubDate>Mon, 01 Jul 2019 23:09:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jeremy Hunt would no-deal Brexit 'with a heavy heart’]]></title>
+            <description>
+                <![CDATA[The Tory leadership contender says he would support companies damaged by leaving the EU without a deal.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-48817541</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-48817541</guid>
+            <pubDate>Sun, 30 Jun 2019 11:06:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The teenager with Down's syndrome swimming in the Arctic]]></title>
+            <description>
+                <![CDATA[Trym is the first person to live on the Svalbard Islands with Down's syndrome and he isn't letting it hold him back.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-48585591</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-48585591</guid>
+            <pubDate>Sat, 29 Jun 2019 23:20:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
